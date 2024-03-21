@@ -1,5 +1,5 @@
 baseurl = "https://devcows.github.io/hugo-universal-theme/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
-title = "A.W. Smith III Enterprises"
+title = "A.W.Smith III Enterprises"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 defaultContentLanguage = "en"
