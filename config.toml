@@ -33,7 +33,7 @@ pluralizelisttitles = false
     identifier = "section.shortcodes"
     url        = ""
     weight     = 1
-    parent     = "menu.features"
+    parent     = "Contact"
     post       = 1
 
 
