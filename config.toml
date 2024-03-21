@@ -23,8 +23,8 @@ pluralizelisttitles = false
     weight     = 1
 
 [[menu.main]]
-    name       = "Features"
-    identifier = "menu.features"
+    name       = "Portfolio"
+    identifier = "menu.portfolio"
     url        = "/img/template-easy-customize.png"
     weight     = 2
 
