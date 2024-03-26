@@ -8,7 +8,7 @@
                     {{ else }}
                       <img style="float: left;" src="{{ .Site.Params.logo | relURL }}" alt="{{ .Title }} logo" class="hidden-xs hidden-sm" />
                       <img style="float: left;" src="{{ .Site.Params.logo_small | relURL }}" alt="{{ .Title }} logo" class="visible-xs visible-sm" />
-                      <h4 style="float: right;">{{ .Site.Params.logo_text }}</h4>
+                      <h4 style="font-weight: normal; font-family: fantasy; font-size: 30px; float: right; padding-left: 10px;">{{ .Site.Params.logo_text }}</h4>
                     {{ end }}
                     <span class="sr-only">{{ .Title }} - {{ i18n "navHome" }}</span>
                 </a>
