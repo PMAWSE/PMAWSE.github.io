@@ -7,7 +7,7 @@ id = "portfolio"
 
 
 
-image: "img/Kids Proton 1.jpg"
+static/img/Kids Proton 1.jpg
 
 ## Enterprise-Rent-A-Car-Stafford
 
