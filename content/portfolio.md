@@ -7,7 +7,7 @@ id = "portfolio"
 
 
 
----insert image name here---
+image: "img/Kids Proton 1.jpg"
 
 ## Enterprise-Rent-A-Car-Stafford
 
