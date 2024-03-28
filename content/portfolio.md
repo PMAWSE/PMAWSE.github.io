@@ -4,10 +4,9 @@ id = "portfolio"
 +++
 
 ## INOVA-Proton Therapy Kids and Teens Room
-
-
-
-static/img/Kids Proton 1.jpg
+weight: 5
+image: "img/Kids Proton 1.jpg"
+description: "Game Lines"
 
 ## Enterprise-Rent-A-Car-Stafford
 
