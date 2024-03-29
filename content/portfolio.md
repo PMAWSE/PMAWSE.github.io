@@ -55,8 +55,6 @@ id: "portfolio"
 
 <img width="200px" src="/img/erac manassas framing 2.jpg" />
 
-<img width="200px" src="/img/erac manassas framing 2.jpg" />
-
 
 
 
