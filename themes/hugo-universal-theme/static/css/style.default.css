@@ -1,6 +1,6 @@
 /* Themed colors */
 :root {
-  --primary-accent: #38a7bb;
+  --primary-accent: #F0E68C;
   --navbar-border-top: #20616d;
   --button-border: #2a7d8c;
   --link-focus: #267280;
@@ -553,7 +553,7 @@ ul.list-style-none {
   border-radius: 0;
 }
 .btn-template-main {
-  color: var(--primary-accent);
+  color: #000;
   background-color: #ffffff;
   border-color: var(--primary-accent);
 }
@@ -1158,7 +1158,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .home-carousel {
   position: relative;
-  background: url('../img/photogrid.jpg') center center repeat;
+  background: url('../img/4700 office 1.jpg') center center repeat;
   background-size: cover;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
@@ -1202,7 +1202,7 @@ fieldset[disabled] .btn-template-primary.active {
 .home-carousel h3,
 .home-carousel p,
 .home-carousel ul {
-  color: #fff;
+  color: #000000;
 }
 .home-carousel h1 {
   font-weight: 700;
@@ -3104,7 +3104,7 @@ fieldset[disabled] .btn-template-primary.active {
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-  color: #ffffff;
+  color: #000000;
   background-color: var(--primary-accent);
 }
 .navbar-default .navbar-nav > .disabled > a,
