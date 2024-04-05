@@ -57,7 +57,7 @@ id: "portfolio"
 
 <img width="200px" src="/img/Painted brick-backside gutters.jpg" />
 
-<img width="200px" src="/painted brick front 2.jpg" />
+<img width="200px" src="/img/painted brick front 2.jpg" />
 
 ## INOVA Cares Clinic for Women (4700)
 
