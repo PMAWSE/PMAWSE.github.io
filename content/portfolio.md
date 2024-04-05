@@ -67,17 +67,47 @@ id: "portfolio"
 
 <img width="200px" src="/img/4700 storefront 1.jpg" />
 
-<img width="200px" src="/img/4700 storefront 1.jpg" />
+<img width="200px" src="/img/4700 reception 2.jpg" />
 
+<img width="200px" src="/img/4700 reception 3.jpg" />
+
+<img width="200px" src="/img/4700 office 1.jpg" />
+
+<img width="200px" src="/img/4700 exam room 1.jpg" />
+
+<img width="200px" src="/img/4700 nurse station 1.jpg" />
+
+<img width="200px" src="/img/4700 nurse station 2.jpg" />
 
 ## INOVA Cares Clinic for Children (6400)
 
+<img width="200px" src="/img/6400 framing 1.jpg" />
 
+<img width="200px" src="/img/6400 framing 2.jpg" />
 
+<img width="200px" src="/img/6400 nurses station.jpg" />
 
+<img width="200px" src="/img/6400axiom.jpg" />
 
-## Enterprise Rent-A-Car Stafford
+<img width="200px" src="/img/6400 waiting room.jpg" />
 
+<img width="200px" src="/img/6400 reception 1.jpg" />
+
+<img width="200px" src="/img/6400 reception 3.jpg" />
+
+## Misc. Pictures
+
+<img width="200px" src="/img/Exterior Stafford ERAC w plants.jpg" />
+
+<img width="200px" src="/img/INOVA Urgent Care Storefront.png" />
+
+<img width="200px" src="/img/Interior ERAC Stafford.jpg" />
+
+<img width="200px" src="/img/Plumbing trench LSFP.jpg" />
+
+<img width="200px" src="/img/shirlington exam 2.jpg" />
+
+<img width="200px" src="/img/6400 reception 3.jpg" />
 
 
 
