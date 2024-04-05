@@ -39,10 +39,6 @@ id: "portfolio"
 
 <img width="200px" src="/img/ERAC Manassas initial block laying.jpg" />
 
-<img width="200px" src="/img/ERAC Manassas block up 50%.jpg" />
-
-<img width="200px" src="/img/erac manassas 75% blocked.jpg" />
-
 <img width="200px" src="/img/erac manassas steel beam 3.jpg" />
 
 <img width="200px" src="/img/erac manassas complete brick 3.jpg" />
