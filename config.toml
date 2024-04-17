@@ -149,8 +149,8 @@ pluralizelisttitles = false
 [params.see_more]
     enable = true
     icon = "far fa-file-alt"
-    title = "Why don't you hire us for your next project?"
-    subtitle = "Our reputation proceedes us."
+    title = "Send us and E-mail to receive more information about our services or send us any inquiries"
+    subtitle = ""
     link_url = "mailto:awsmithiiiinc@gmail.com"
     link_text = "Email Us"
 
