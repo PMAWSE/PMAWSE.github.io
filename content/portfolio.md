@@ -67,7 +67,7 @@ id: "portfolio"
 
 <img width="200px" src="/img/ERAC Manassas inside side angle.jpg" />
 
-## INOVA Cares Clinic for Women (4700)
+## INOVA Cares Clinic for Women
 
 <img width="200px" src="/img/4700 storefront 1.jpg" />
 
@@ -83,7 +83,7 @@ id: "portfolio"
 
 <img width="200px" src="/img/4700 nurse station 2.jpg" />
 
-## INOVA Cares Clinic for Children (6400)
+## INOVA Cares Clinic for Children
 
 <img width="200px" src="/img/6400 framing 1.jpg" />
 
