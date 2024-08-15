@@ -161,8 +161,6 @@ id: "portfolio"
 
 <img width="200px" src="/img/SMOP hallway 1.jpg" />
 
-<img width="200px" src="/img/SMOP hallway 2.jpg" />
-
 <img width="200px" src="/img/SMOP hallway 3.jpg" />
 
 <img width="200px" src="/img/SMOP hallway 4.jpg" />
