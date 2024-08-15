@@ -69,18 +69,6 @@ id: "portfolio"
 
 <img width="200px" src="/img/Erac Stafford landscape 6.jpg" />
 
-<img width="200px" src="/img/Teens Proton 6.jpg" />
-
-<img width="200px" src="/img/Teens Proton 6.jpg" />
-
-<img width="200px" src="/img/Teens Proton 6.jpg" />
-
-<img width="200px" src="/img/Teens Proton 6.jpg" />
-
-<img width="200px" src="/img/Teens Proton 6.jpg" />
-
-<img width="200px" src="/img/Teens Proton 6.jpg" />
-
 ## Enterprise Rent-A-Car Manassas
 
 9018 Centreville Rd, Manassas, VA 20110
