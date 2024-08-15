@@ -95,6 +95,40 @@ id: "portfolio"
 
 <img width="200px" src="/img/SMOP Reception WIndows angle.jpg" />
 
+<img width="200px" src="/img/SMOP Reception WIndows front.jpg" />
+
+<img width="200px" src="/img/SMOP Waiting Room wide.jpg" />
+
+<img width="200px" src="/img/SMOP Waiting room chairs.jpg" />
+
+<img width="200px" src="/img/SMOP consult.jpg" />
+
+<img width="200px" src="/img/SMOP counseling.jpg" />
+
+<img width="200px" src="/img/SMOP exam room 1.jpg" />
+
+<img width="200px" src="/img/SMOP exam room 2.jpg" />
+
+<img width="200px" src="/img/SMOP hallway 1.jpg" />
+
+<img width="200px" src="/img/SMOP hallway 2.jpg" />
+
+<img width="200px" src="/img/SMOP hallway 3.jpg" />
+
+<img width="200px" src="/img/SMOP hallway 4.jpg" />
+
+<img width="200px" src="/img/SMOP lab.jpg" />
+
+<img width="200px" src="/img/SMOP nurses 1.jpg" />
+
+<img width="200px" src="/img/SMOP providers office 1.jpg" />
+
+<img width="200px" src="/img/SMOP reception backside.jpg" />
+
+<img width="200px" src="/img/SMOP reception side entrance.jpg" />
+
+<img width="200px" src="/img/SMOP triage.jpg" />
+
 ## Misc. Pictures
 
 <img width="200px" src="/img/Exterior Stafford ERAC w plants.jpg" />
