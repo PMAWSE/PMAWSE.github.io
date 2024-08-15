@@ -31,7 +31,9 @@ id: "portfolio"
 
 <img width="200px" src="/img/Erac Stafford sign.jpg" />
 
-<img width="200px" src="/img/Erac Stafford sign.jpg" />
+<img width="200px" src="/img/Erac Stafford storefront nice 2.jpg" />
+
+<img width="200px" src="/img/Erac Stafford storefront nice 3.jpg" />
 
 <img width="200px" src="/img/Erac Stafford Car Wash.jpg" />
 
@@ -201,6 +203,49 @@ id: "portfolio"
 
 <img width="200px" src="/img/6400 reception 3.jpg" />
 
+<img width="200px" src="/img/2740 blood lab.jpg" />
 
+<img width="200px" src="/img/Hinson Farm exam 1.jpg" />
 
+<img width="200px" src="/img/Hinson Farm office 1.jpg" />
+
+<img width="200px" src="/img/LMG 1.jpg" />
+
+<img width="200px" src="/img/LMG millwork.jpg" />
+
+<img width="200px" src="/img/hinson farm exam 2.jpg" />
+
+<img width="200px" src="/img/hinson farm exam 3.jpg" />
+
+<img width="200px" src="/img/inova sudley 1.jpg" />
+
+<img width="200px" src="/img/lmg 2.jpg" />
+
+<img width="200px" src="/img/lmg 3.jpg" />
+
+<img width="200px" src="/img/lmg 4.jpg" />
+
+<img width="200px" src="/img/lmg 5.jpg" />
+
+<img width="200px" src="/img/lmg 6.jpg" />
+
+<img width="200px" src="/img/lmg 7.jpg" />
+
+<img width="200px" src="/img/lmg 8.jpg" />
+
+<img width="200px" src="/img/lmg bathroom.jpg" />
+
+<img width="200px" src="/img/6400 reception 3.jpg" />
+
+<img width="200px" src="/img/6400 reception 3.jpg" />
+
+<img width="200px" src="/img/6400 reception 3.jpg" />
+
+<img width="200px" src="/img/6400 reception 3.jpg" />
+
+<img width="200px" src="/img/6400 reception 3.jpg" />
+
+<img width="200px" src="/img/6400 reception 3.jpg" />
+
+<img width="200px" src="/img/6400 reception 3.jpg" />
 
