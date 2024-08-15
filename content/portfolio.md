@@ -91,6 +91,10 @@ id: "portfolio"
 
 <img width="200px" src="/img/6400 reception 3.jpg" />
 
+## INOVA Cares Clinic for Families
+
+<img width="200px" src="/img/SMOP Reception WIndows angle.jpg" />
+
 ## Misc. Pictures
 
 <img width="200px" src="/img/Exterior Stafford ERAC w plants.jpg" />
