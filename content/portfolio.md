@@ -163,8 +163,6 @@ id: "portfolio"
 
 <img width="200px" src="/img/SMOP reception backside.jpg" />
 
-<img width="200px" src="/img/SMOP triage.jpg" />
-
 <img width="200px" src="/img/SMOP Reception WIndows angle.jpg" />
 
 <img width="200px" src="/img/SMOP Reception WIndows front.jpg" />
