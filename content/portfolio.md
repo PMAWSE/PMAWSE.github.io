@@ -13,10 +13,6 @@ id: "portfolio"
 
 <img width="200px" src="/img/Kids Proton 3.jpg" />
 
-<img width="200px" src="/img/Kids Proton 4.jpg" />
-
-<img width="200px" src="/img/Teens Proton 1.jpg" />
-
 <img width="200px" src="/img/Teens Proton 2.jpg" />
 
 <img width="200px" src="/img/Teens Proton 3.jpg" />
@@ -26,6 +22,10 @@ id: "portfolio"
 <img width="200px" src="/img/Teens Proton 5.jpg" />
 
 <img width="200px" src="/img/Teens Proton 6.jpg" />
+
+<img width="200px" src="/img/Kids Proton 4.jpg" />
+
+<img width="200px" src="/img/Teens Proton 1.jpg" />
 
 ## Enterprise Rent-A-Car Stafford
 
