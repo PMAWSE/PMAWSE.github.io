@@ -153,6 +153,12 @@ id: "portfolio"
 
 <img width="200px" src="/img/SMOP Waiting room chairs.jpg" />
 
+<img width="200px" src="/img/SMOP reception side entrance.jpg" />
+
+<img width="200px" src="/img/SMOP providers office 1.jpg" />
+
+<img width="200px" src="/img/SMOP lab.jpg" />
+
 <img width="200px" src="/img/SMOP consult.jpg" />
 
 <img width="200px" src="/img/SMOP counseling.jpg" />
@@ -167,15 +173,9 @@ id: "portfolio"
 
 <img width="200px" src="/img/SMOP hallway 4.jpg" />
 
-<img width="200px" src="/img/SMOP lab.jpg" />
-
 <img width="200px" src="/img/SMOP nurses 1.jpg" />
 
-<img width="200px" src="/img/SMOP providers office 1.jpg" />
-
 <img width="200px" src="/img/SMOP reception backside.jpg" />
-
-<img width="200px" src="/img/SMOP reception side entrance.jpg" />
 
 <img width="200px" src="/img/SMOP triage.jpg" />
 
