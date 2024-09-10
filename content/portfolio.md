@@ -105,9 +105,9 @@ id: "portfolio"
 
 <img width="200px" src="/img/ERAC Manassas desks and sign 2.jpg" />
 
-<img width="200px" src="/img/ERAC Manassas inside side angle.jpg" />
-
 <img width="200px" src="/img/ERAC Manassas Desks and sign.jpg" />
+
+<img width="200px" src="/img/ERAC Manassas inside side angle.jpg" />
 
 ## INOVA Cares Clinic for Women
 
