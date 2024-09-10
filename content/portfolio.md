@@ -191,6 +191,12 @@ id: "portfolio"
 
 <img width="200px" src="/img/lmg 2.jpg" />
 
+<img width="200px" src="/img/LMG millwork.jpg" />
+
+<img width="200px" src="/img/hinson farm exam 2.jpg" />
+
+<img width="200px" src="/img/hinson farm exam 3.jpg" />
+
 <img width="200px" src="/img/Interior ERAC Stafford.jpg" />
 
 <img width="200px" src="/img/Plumbing trench LSFP.jpg" />
@@ -206,12 +212,6 @@ id: "portfolio"
 <img width="200px" src="/img/Hinson Farm office 1.jpg" />
 
 <img width="200px" src="/img/LMG 1.jpg" />
-
-<img width="200px" src="/img/LMG millwork.jpg" />
-
-<img width="200px" src="/img/hinson farm exam 2.jpg" />
-
-<img width="200px" src="/img/hinson farm exam 3.jpg" />
 
 <img width="200px" src="/img/inova sudley 1.jpg" />
 
