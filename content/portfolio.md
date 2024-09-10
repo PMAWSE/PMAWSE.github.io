@@ -31,8 +31,6 @@ id: "portfolio"
 
 <img width="200px" src="/img/Erac Stafford sign.jpg" />
 
-<img width="200px" src="/img/Erac Stafford storefront nice 2.jpg" />
-
 <img width="200px" src="/img/Erac Stafford storefront nice 3.jpg" />
 
 <img width="200px" src="/img/Erac Stafford Car Wash.jpg" />
@@ -57,8 +55,6 @@ id: "portfolio"
 
 <img width="200px" src="/img/Erac Stafford interior_2.jpg" />
 
-<img width="200px" src="/img/Erac Stafford landscape 1.jpg" />
-
 <img width="200px" src="/img/Erac Stafford landscape 2.jpg" />
 
 <img width="200px" src="/img/Erac Stafford landscape 3.jpg" />
@@ -68,6 +64,10 @@ id: "portfolio"
 <img width="200px" src="/img/Erac Stafford landscape 5.jpg" />
 
 <img width="200px" src="/img/Erac Stafford landscape 6.jpg" />
+
+<img width="200px" src="/img/Erac Stafford landscape 1.jpg" />
+
+<img width="200px" src="/img/Erac Stafford storefront nice 2.jpg" />
 
 ## Enterprise Rent-A-Car Manassas
 
