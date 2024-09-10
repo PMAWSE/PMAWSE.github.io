@@ -121,6 +121,8 @@ id: "portfolio"
 
 <img width="200px" src="/img/4700 nurse station 1.jpg" />
 
+<img width="200px" src="/img/4700 storefront 1.jpg" />
+
 <img width="200px" src="/img/4700 nurse station 2.jpg" />
 
 <img width="200px" src="/img/4700 reception 3.jpg" />
