@@ -115,8 +115,6 @@ id: "portfolio"
 
 <img width="200px" src="/img/4700 reception 2.jpg" />
 
-<img width="200px" src="/img/4700 reception 3.jpg" />
-
 <img width="200px" src="/img/4700 office 1.jpg" />
 
 <img width="200px" src="/img/4700 exam room 1.jpg" />
@@ -124,6 +122,8 @@ id: "portfolio"
 <img width="200px" src="/img/4700 nurse station 1.jpg" />
 
 <img width="200px" src="/img/4700 nurse station 2.jpg" />
+
+<img width="200px" src="/img/4700 reception 3.jpg" />
 
 ## INOVA Cares Clinic for Children
 
