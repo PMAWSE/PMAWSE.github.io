@@ -220,5 +220,3 @@ id: "portfolio"
 <img width="200px" src="/img/lmg 8.jpg" />
 
 <img width="200px" src="/img/lmg bathroom.jpg" />
-
-<img width="200px" src="/img/6400 reception 3.jpg" />
