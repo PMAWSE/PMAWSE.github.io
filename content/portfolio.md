@@ -183,6 +183,14 @@ id: "portfolio"
 
 <img width="200px" src="/img/INOVA Urgent Care Storefront.png" />
 
+<img width="200px" src="/img/lmg bathroom.jpg" />
+
+<img width="200px" src="/img/lmg 7.jpg" />
+
+<img width="200px" src="/img/lmg 5.jpg" />
+
+<img width="200px" src="/img/lmg 2.jpg" />
+
 <img width="200px" src="/img/Interior ERAC Stafford.jpg" />
 
 <img width="200px" src="/img/Plumbing trench LSFP.jpg" />
@@ -207,18 +215,10 @@ id: "portfolio"
 
 <img width="200px" src="/img/inova sudley 1.jpg" />
 
-<img width="200px" src="/img/lmg 2.jpg" />
-
 <img width="200px" src="/img/lmg 3.jpg" />
 
 <img width="200px" src="/img/lmg 4.jpg" />
 
-<img width="200px" src="/img/lmg 5.jpg" />
-
 <img width="200px" src="/img/lmg 6.jpg" />
 
-<img width="200px" src="/img/lmg 7.jpg" />
-
 <img width="200px" src="/img/lmg 8.jpg" />
-
-<img width="200px" src="/img/lmg bathroom.jpg" />
