@@ -113,6 +113,7 @@ pluralizelisttitles = false
     address = """<p class="text-uppercase"><strong>A.W. Smith III Enterprises, Inc.</strong>
         <br>21530 Blackwood Ct. #100
         <br>Sterling, VA 20166
+        <br>adam@awseinc.com
         <br>
       </p>
       """
@@ -151,7 +152,7 @@ pluralizelisttitles = false
     icon = "far fa-file-alt"
     title = "Send us an E-mail to receive more information"
     subtitle = ""
-    link_url = "mailto:awsmithiiiinc@gmail.com"
+    link_url = "mailto:adam@awseinc.com"
     link_text = "Email Us"
 
 [params.footer.recent_posts]
